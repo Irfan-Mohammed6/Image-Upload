@@ -1,0 +1,1 @@
+This is a simple Django project, where the user can upload images, and the uploaded images are displayed, this project was primarily for me to practice django, but I do intend to add more functionality and upgrade the project in the future.
